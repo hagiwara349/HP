@@ -36,9 +36,10 @@ a:hover{
 
 
 header{
-  width:2000px;
+  width: 9600px;
   height: 100px;
   margin: 0 auto;
+  float: left;
 }
 
 .logo{
@@ -46,8 +47,8 @@ header{
 }
 
 .global-nav{
-  float: right;
-  margin-top:60px;
+  float: left;
+  margin-top:100px;
   
 }
 
